@@ -1,0 +1,15 @@
+Aqui Cito as principais anotações de Git.
+
+Limpar o git ( ctrl+l )
+criar pastas (mkdir)
+verificar estatus da pasta/arquivo (git status)
+verificar oque há dentro da pasta/arquivo (ls)
+para navegar entre as pastas (cd)
+para retonar a pasta anterior(cd..)
+para criar arquivos (echo)
+para enviar para repositorio remoto (Push)
+para puxar de repositorio remoto (git clone)
+
+oque é um sha1? ( um conjunto de funções criptografadas que gera um conjunto de caracteres unicos, de 40 digitos) 
+
+
